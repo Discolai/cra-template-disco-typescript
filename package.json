@@ -1,6 +1,6 @@
 {
   "name": "cra-template-disco-typescript",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
@@ -8,6 +8,7 @@
     "typescript"
   ],
   "description": "Create react app template with typescript, eslint, prettier and bootstrap",
+  "main": "template.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/Discolai/cra-template-disco-typescript.git"
